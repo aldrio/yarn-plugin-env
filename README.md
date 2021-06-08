@@ -19,7 +19,7 @@ Yarn plugin to load `.env` files for all your yarn scripts.
 ## Install
 
 ```console
-yarn plugin import ...
+yarn plugin import https://raw.githubusercontent.com/aldrio/yarn-plugin-env/main/bundles/%40yarnpkg/plugin-env.js
 ```
 
 ## Configure
